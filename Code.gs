@@ -4,6 +4,7 @@
 
 const FLIGHT_INFO = {
   'BR116': { airline: 'BR', dest: '新千歲(CTS)', name: '長榮BR116' },
+  'BR136': { airline: 'BR', dest: '旭川(AKJ)',   name: '長榮BR136旭川包機' },
   'BR166': { airline: 'BR', dest: '新千歲(CTS)', name: '長榮BR166' },
   'CI130': { airline: 'CI', dest: '新千歲(CTS)', name: '華航CI130'  },
   'JX850': { airline: 'JX', dest: '新千歲(CTS)', name: '星宇JX850' },
